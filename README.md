@@ -20,8 +20,8 @@ Raw Data → Data Cleaning (Python) → SQL Analysis → Power BI Dashboard → 
 * <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 * <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 * <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
-* <a href="#insights">Key Insights</a>
 * <a href="#dashboard">Dashboard</a>
+* <a href="#insights">Key Insights</a>
 * <a href="#how-to-run-this-project">How to Run This Project</a>
 * <a href="#final-recommendations">Final Recommendations</a>
 * <a href="#author--contact">Author & Contact</a>
@@ -153,6 +153,19 @@ customer-shopping-behavior-analysis/
    - Segmented customers into New, Returning, and Loyal based on purchase history  
 
 ---
+
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+- Interactive Power BI dashboard includes:
+  - Revenue analysis
+  - Customer segmentation
+  - Product performance
+  - Demographic insights  
+
+
+![Customer Behavior Dashboard](images/dashboard.png)
+
+---
 <h2><a class="anchor" id="insights"></a>Key Insights</h2>
 
 - Loyal customers represent **3,116 out of 3,900 customers (~80%)**, indicating strong repeat purchasing behavior.  
@@ -169,19 +182,6 @@ customer-shopping-behavior-analysis/
 
 - The Clothing category generates the highest revenue compared to other product categories.  
   **Business Impact:** Businesses should prioritize inventory and promotions for high-demand product categories.
----
-
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
-
-- Interactive Power BI dashboard includes:
-  - Revenue analysis
-  - Customer segmentation
-  - Product performance
-  - Demographic insights  
-
-
-![Customer Behavior Dashboard](images/dashboard.png)
-
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
