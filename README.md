@@ -189,7 +189,7 @@ customer-shopping-behavior-analysis/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
+git clone https://github.com/kathuriakirti/customer-segmentation-analysis-python-sql-powerbi
 ```
 
 2. Install required libraries:
