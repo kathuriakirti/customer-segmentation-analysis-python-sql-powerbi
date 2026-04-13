@@ -1,8 +1,13 @@
 
-# 🛍️  Customer Segmentation & Behavior Analysis Dashboard
+# Customer Segmentation & Behavior Analysis using Python, SQL, and Power BI
 
-*Analyzing customer purchasing patterns, preferences, and segmentation to drive data-driven business decisions using Python, SQL, and Power BI.*
+This project analyzes customer shopping behavior using Python, SQL, and Power BI to identify customer segments, revenue patterns, and business insights that support better marketing and retention strategies.
 
+---
+
+## Project Workflow
+
+Raw Data → Data Cleaning (Python) → SQL Analysis → Power BI Dashboard → Business Insights
 ---
 
 ## 📌 Table of Contents
@@ -150,15 +155,20 @@ customer-shopping-behavior-analysis/
 ---
 <h2><a class="anchor" id="insights"></a>Key Insights</h2>
 
-- Loyal customers dominate the customer base, accounting for **3,116 out of 3,900 customers (~80%)**, indicating strong repeat purchasing behavior.
+- Loyal customers represent **3,116 out of 3,900 customers (~80%)**, indicating strong repeat purchasing behavior.  
+  **Business Impact:** Retention strategies should focus on loyal customers to maintain stable revenue.
 
-- Non-subscribed customers generate the majority of revenue, contributing **$170,436**, compared to **$62,645** from subscribed customers.
+- Non-subscribers generate higher revenue (**$170,436**) compared to subscribers (**$62,645**).  
+  **Business Impact:** Increasing subscription adoption can improve recurring revenue and customer engagement.
 
-- Young Adult customers generate the highest revenue at **$62,143**, making them a key target segment for marketing campaigns.
+- Young Adult customers contribute the highest revenue (**$62,143**) among all age groups.  
+  **Business Impact:** Marketing campaigns should prioritize high-performing age groups to maximize revenue.
 
-- Express shipping users spend slightly more on average (**$60.48**) than Standard shipping users (**$58.46**), suggesting demand for faster delivery options.
+- Express shipping users spend slightly more on average (**$60.48**) than Standard shipping users (**$58.46**).  
+  **Business Impact:** Promoting faster delivery options can increase customer spending.
 
-- The Clothing category generates the highest revenue, indicating strong customer demand in this product segment.
+- The Clothing category generates the highest revenue compared to other product categories.  
+  **Business Impact:** Businesses should prioritize inventory and promotions for high-demand product categories.
 ---
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
